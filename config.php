@@ -1,3 +1,5 @@
 <?php
-//code is added by using install.php
+/* 
+code is added by using install.php
+*/
 ?>
